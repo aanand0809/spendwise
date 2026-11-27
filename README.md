@@ -1,4 +1,4 @@
-# spendwise
+
 # 💰 SpendWise – Expense Tracker
 
 **SpendWise** is a simple and user-friendly Expense Tracker Web Application designed to help users manage their daily expenses, track income, and monitor their financial activities.
